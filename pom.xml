@@ -42,7 +42,7 @@
     <plugin.version.javadoc>3.0.1</plugin.version.javadoc>
     <plugin.version.maven-bundle>4.2.1</plugin.version.maven-bundle>
 
-    <plugin.version.license>3.0</plugin.version.license>
+    <plugin.version.license>5.1.2</plugin.version.license>
     
     <plugin.version.deploy>2.8.2</plugin.version.deploy>
     <plugin.version.assembly>3.7.1</plugin.version.assembly>
